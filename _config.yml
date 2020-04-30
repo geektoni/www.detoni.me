@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Giovanni De Toni"
 title_separator          : "-"
 name                     : &name "Giovanni De Toni"
-description              : &description "Research Intern, Computer Science"
+description              : &description "Researcher and Sofwtare Developer, Machine Learning"
 url                      : http://detoni.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geektoni/www.detoni.me"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Giovanni De Toni"
   avatar           : "profile.jpg"
-  bio              : "Research Intern, Computer Science"
+  bio              : "Researcher and Sofwtare Developer, Machine Learning"
   location         : "Trento, Italy"
-  employer         :
+  employer         : "University of Trento"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=Z95oxK0AAAAJ"
   email            : "giovanni.det@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
