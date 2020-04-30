@@ -1,1 +1,1 @@
-Sitemap: https://detoni.me/sitemap.xml
+Sitemap: http://detoni.me/sitemap.xml
