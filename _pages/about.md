@@ -34,9 +34,15 @@ I received my Bachelor and Master's degree (cum laude) from the [University of T
 
 ## Projects
 
-Here a list of open-source project to which I am currently contributing
+Here a list of open-source projects to which I am currently contributing
 (or to which I contributed in the past.)
 
 * **[Shogun](https://github.com/shogun-toolbox/shogun)**, C++ machine learning framework which offers unified interfaces for many different programming languages (e.g. Python, Java, Ruby, etc.);
 * **[PyGLMnet](https://github.com/glm-tools/pyglmnet)**, python implementation of elastic-net regularized linear models;
 * **[BioDynaMo](https://github.com/BioDynaMo/biodynamo)**, C++ simulator of biological system (developed at CERN);  
+
+
+## Thesis
+
+* G. De Toni, **"Neural Program Synthesis: Automatic procedure learning with neural networks"**, Master's Thesis, 2019
+* G. De Toni, **"Previsione dell'incidenza di patologie influenzali in Italia attraverso l'analisi di Wikipedia "**, Bachelor'sThesis, 2017
