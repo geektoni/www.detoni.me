@@ -9,7 +9,7 @@ redirect_from:
 ---
 ## About
 
-Currently, I am working in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** as a machine learning researcher
+Currently, I am working in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** as a Research Assistant
 under the supervision of [Prof. Andrea Passerini](http://disi.unitn.it/~passerini/) at
 the [University of Trento](https://www.unitn.it), Italy.
 
@@ -23,7 +23,7 @@ I received my Bachelor and Master's degree (cum laude) from the [University of T
 ## Publications
 
 * G. De Toni, C. Consonni, A. Montresor,
-**"A general method for estimating the prevalence of Influenza-Like-Symptoms with Wikipedia data"**, in preparation.
+**"A general method for estimating the prevalence of Influenza-Like-Symptoms with Wikipedia data"**, [[bib]](./files/bib/detoni2020influenza.bib) [[pdf]](https://arxiv.org/abs/2010.14903) [[code]](https://github.com/fluTN/influenza)
 
 * M. Jas, T. Achakulvisut, A. Idrizović, D. Acuna, M. Antalek, V. Marques, T. Odland, R. Prakash Garg, M. Agrawal, Y. Umegaki, P. Foley, H. Fernandes, D. Harris, B. Li, O. Pieters, S. Otterson, G. De Toni, C. Rodgers, E. Dyer, M. Hamalainen, K. Kording, P. Ramkumar,
 **"Pyglmnet: Python implementation of elastic-net regularized generalized linear models"**, Journal of Open Source Software, vol. 5, issue 47, 2020, [[bib]](./files/bib/pyglmnet.bib) [[pdf]](https://joss.theoj.org/papers/10.21105/joss.01959) [[code]](https://github.com/glm-tools/pyglmnet)
@@ -44,5 +44,5 @@ Here a list of open-source projects to which I am currently contributing
 
 ## Thesis
 
-* G. De Toni, **"Neural Program Synthesis: Automatic procedure learning with neural networks"**, Master's Thesis, 2019
-* G. De Toni, **"Previsione dell'incidenza di patologie influenzali in Italia attraverso l'analisi di Wikipedia "**, Bachelor'sThesis, 2017
+* G. De Toni, **"Neural Program Synthesis: Automatic procedure learning with neural networks"**, Master's Thesis, 2020
+* G. De Toni, **"Previsione dell'incidenza di patologie influenzali in Italia attraverso l'analisi di Wikipedia "**, Bachelor's Thesis, 2017
