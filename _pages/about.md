@@ -9,16 +9,16 @@ redirect_from:
 ---
 ## About
 
-Currently, I am working in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** as a Research Assistant
-under the supervision of [Prof. Andrea Passerini](http://disi.unitn.it/~passerini/) at
-the [University of Trento](https://www.unitn.it), Italy.
+I am former Research Assistant in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** under the supervision of [Prof. Andrea Passerini](http://disi.unitn.it/~passerini/) at the [University of Trento](https://www.unitn.it), Italy.
 
-My research interests concentrate on developing new Hierarchical Reinforcement Learning and Deep Learning methods to perform efficient **program synthesis** and **program generation**. I am also
-interested in **interpretable machine learning** techniques.
+My main interests are deep learning, reinforcement learning, program synthesis
+and interpretable machine learning methods.
 
 During my studies, I interned at **[CERN](http://cern.ch)** (2019) and I spent a semester at the **[University of Edinburgh](https://www.ed.ac.uk/)** (2018) as an Erasmus student. I also participated in the **[Google Summer of Code](https://summerofcode.withgoogle.com/)** (2017) as a Software Developer for [Shogun](https://shogun.ml), a machine learning library.
 
 I received my Bachelor and Master's degree (cum laude) from the [University of Trento](https://www.unitn.it) in 2017 and 2020 respectively. I also obtained a **scholarship** for my academic performance through my undergraduate studies.
+
+In my free time, I enjoy hiking, reading, chess. I also spend a lot of time thinking about how to automatize human activity with intelligent agents. If you want to have a gist of what I am currently working on, please visit my Github page at [github.com/geektoni](https://github.com/geektoni).
 
 ## Publications
 
@@ -32,6 +32,10 @@ I received my Bachelor and Master's degree (cum laude) from the [University of T
 
 * G. De Toni, **"Improving BioDynaMo build system"**, Zenodo, 2019, [[pdf]](https://zenodo.org/record/3550754#.XqqdGXUzamE)
 
+## Datasets
+
+* G. De Toni, C. Consonni, **"Influenza + Wikipedia Dataset"**, Zenodo, 2018, [[data]](https://zenodo.org/record/3786254#.X_BQ6lNKjuI)
+
 ## Projects
 
 Here a list of open-source projects to which I am currently contributing
@@ -41,8 +45,11 @@ Here a list of open-source projects to which I am currently contributing
 * **[PyGLMnet](https://github.com/glm-tools/pyglmnet)**, python implementation of elastic-net regularized linear models;
 * **[BioDynaMo](https://github.com/BioDynaMo/biodynamo)**, C++ simulator of biological system (developed at CERN);  
 
-
 ## Thesis
 
 * G. De Toni, **"Neural Program Synthesis: Automatic procedure learning with neural networks"**, Master's Thesis, 2020
 * G. De Toni, **"Previsione dell'incidenza di patologie influenzali in Italia attraverso l'analisi di Wikipedia "**, Bachelor's Thesis, 2017
+
+### Trivia
+
+I should technically have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 5. It doesn't mean much, but it is funny mathematical folklore to not tell you about it.
