@@ -9,10 +9,11 @@ redirect_from:
 ---
 ## About
 
-I am former Research Assistant in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** under the supervision of [Prof. Andrea Passerini](http://disi.unitn.it/~passerini/) at the [University of Trento](https://www.unitn.it), Italy.
+I am a Research Scientist at [VUI, Inc.](https://www.vui.com/) where I develop machine learning models for building innovative conversational agents.
 
-My main interests are deep learning, reinforcement learning, program synthesis
-and interpretable machine learning methods.
+My main interests are deep learning, reinforcement learning, and interpretable machine learning methods.
+
+Previously, I was a Research Assistant in the **[Structured Machine Learning Group](http://sml.disi.unitn.it/)** under the supervision of [Prof. Andrea Passerini](http://disi.unitn.it/~passerini/) at the [University of Trento](https://www.unitn.it), Italy.
 
 During my studies, I interned at **[CERN](http://cern.ch)** (2019) and I spent a semester at the **[University of Edinburgh](https://www.ed.ac.uk/)** (2018) as an Erasmus student. I also participated in the **[Google Summer of Code](https://summerofcode.withgoogle.com/)** (2017) as a Software Developer for [Shogun](https://shogun.ml), a machine learning library.
 
@@ -52,4 +53,4 @@ Here a list of open-source projects to which I am currently contributing
 
 ### Trivia
 
-I should technically have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 5. It doesn't mean much, but it is funny mathematical folklore to not tell you about it.
+I should technically have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) of 5. It doesn't mean much, but it is a nice mathematical joke.
