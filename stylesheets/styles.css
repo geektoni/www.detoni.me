@@ -178,6 +178,10 @@ section {
   padding-bottom:50px;
 }
 
+#profile_picture {
+  float: left;
+}
+
 small {
   font-size:11px;
 }
@@ -210,6 +214,14 @@ footer {
     float:none;
     position:static;
     width:auto;
+  }
+
+  section {
+    text-align: center;
+  }
+
+  #profile_picture {
+    float: none;
   }
 
   header {
